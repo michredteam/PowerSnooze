@@ -43,6 +43,8 @@ Descripción del argumento
 
 /Background Ejecuta la cuenta regresiva en segundo plano.
 
+```
+
 ![212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b](https://github.com/michredteam/PowerSnooze/assets/168865716/a8b3c36b-f7f2-49f8-bfeb-4465b21aa204)
 
 # Comportamiento 📄
