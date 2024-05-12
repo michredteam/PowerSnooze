@@ -62,8 +62,14 @@ Si decides cancelar el apagado antes de que el temporizador llegue a cero, puede
 # Instalador
 su instalacion es sencilla solo sigue los pasos que te solicita esto para tener la aplicacion como parte de una aplicacion y se pueda eliminar de forma sencilla
 
-(https://github.com/michredteam/PowerSnooze/releases/tag/Windows)
+https://github.com/michredteam/PowerSnooze/releases/tag/Windows
 
 
 ![image](https://github.com/michredteam/PowerSnooze/assets/168865716/cf2f74aa-4a82-4564-97bb-8908ca6eb9fd)
+
+al terminar podra visualiar el icono en su escritorio si es que durante la instalacion le dio en permitir al abrirla ejecutra la pantalla siguiente
+
+
+![image](https://github.com/michredteam/PowerSnooze/assets/168865716/2d36961e-8a85-4601-8508-77a2f8543fb6)
+
 
